@@ -1,0 +1,16 @@
+<div class="social-icons right">
+  {% if site.linkedin_username %}
+    <a class="fa fa-linkedin" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank"></a>
+  {% endif %}  
+  {% if site.github_username %}
+    <a class="fa fa-github" href="https://github.com/{{ site.github_username }}" target="_blank"></a>
+  {% endif %}
+  {% if site.twitter_username %}
+    <a class="fa fa-twitter" href="https://twitter.com/{{ site.twitter_username }}" target="_blank"></a>
+  {% endif %}
+  {% if site.email %}
+    <a class="fa fa-envelope" href="mailto:{{ site.email }}"></a>
+  {% endif %}
+  <a class="fa fa-rss" href="{{ "/feed.xml" | relative_url }}" target="_blank"></a>
+</div>
+<div class="clearfix"></div>

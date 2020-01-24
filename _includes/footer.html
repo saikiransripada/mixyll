@@ -1,0 +1,17 @@
+<footer class="center">
+  <div class="measure">
+    <div class="left">
+      <small>
+        &copy; {{ site.time | date:"%Y" }} {{ site.title }}
+      </small>
+    </div>
+    {% if site.show_social_icons %}
+      {% include social_links.html %}
+    {% endif %}
+  </div>
+</footer>
+<script type="text/javascript">
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("{{ '/sw.js' | relative_url }}")
+    }
+</script>

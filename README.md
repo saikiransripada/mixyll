@@ -2,7 +2,7 @@
 
 [Mixyll](https://mixyll.saikiransripada.com/)
 
-![Mixyll screenshot](./screenshot.png)
+![Mixyll screenshot](https://mixyll.saikiransripada.com/screenshot.png)
 
 Mixyll (minimal version of [Pixyll](https://github.com/johno/pixyll)) is a simple, beautiful theme for Jekyll theme that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
 

@@ -71,7 +71,7 @@ Here's some HTML:
 # Headings!
 
 They're responsive, and well-proportioned (in `padding`, `line-height`, `margin`, and `font-size`).
-They also heavily rely on the awesome utility, [BASSCSS](http://www.basscss.com/).
+They also heavily rely on the awesome utility, [BASSCSS](http://basscss.com).
 
 ##### They draw the perfect amount of attention
 
@@ -97,7 +97,7 @@ _![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe
 
 ### There are also pretty colors
 
-Also the result of [BASSCSS](http://www.basscss.com/), you can <span class="bg-dark-gray white">highlight</span> certain components
+Also the result of [BASSCSS](http://basscss.com), you can <span class="bg-dark-gray white">highlight</span> certain components
 of a <span class="red">post</span> <span class="mid-gray">with</span> <span class="green">CSS</span> <span class="orange">classes</span>.
 
 I don't recommend using blue, though. It looks like a <span class="blue">link</span>.

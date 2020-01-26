@@ -8,7 +8,7 @@ categories: jekyll mixyll
 
 Hello.
 
-Mixyll (Minimal version of Pixyll) is a simple, beautiful theme for Jekyll based on the popular Jekyll theme Pixyll by John Otander that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
+Mixyll (Minimal version of [Pixyll](https://github.com/johno/pixyll)) is a simple, beautiful theme for Jekyll based on the popular Jekyll theme [Pixyll](https://github.com/johno/pixyll) by [John Otander](http://johnotander.com) that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
 
 It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.
 

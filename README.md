@@ -1,4 +1,4 @@
-# Mixyll
+# Mixyll [![Jekyll Themes Shield](https://img.shields.io/badge/featured%20on-JT-red.svg)](https://jekyll-themes.com/mixyll/)
 
 [Mixyll](https://mixyll.saikiransripada.com/)
 

@@ -6,9 +6,9 @@ description: "Blog sobre desenvolvimento de software e outros assuntos."
 baseurl:     ""
 url:         "https://opaulo.dev"
 date_format: "%b %-d, %Y"
-header_pages:
- - about.md
- - contact.html
+# header_pages:
+# - about.md
+# - contact.html
 
 google_analytics:
 

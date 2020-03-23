@@ -1,10 +1,10 @@
 # Site settings
-title:       Mixyll
-email:       hello@saikiransripada.com
-author:      Sai Kiran Sripada
-description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+title:       Paulo Roberto
+email:       paulo.pinda@gmail.com
+author:      Paulo Roberto Silva
+description: "Blog sobre desenvolvimento de software e outros assuntos."
 baseurl:     ""
-url:         "https://mixyll.saikiransripada.com"
+url:         "https://opaulo.dev"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -25,9 +25,9 @@ post_preview_image: false
 disqus_shortname:
 
 # Social icons
-github_username: saikiransripada
-twitter_username: wp_user
-linkedin_username: saikiransripada
+github_username: 0p4ul0
+twitter_username: 0p4ul0
+linkedin_username: 0p4ul0
 
 # Post sharing icons
 show_sharing_icons: true
@@ -44,27 +44,27 @@ share_hackernews: true
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: 'Novo'
+    older: 'Antigo'
   share_buttons:
-    text:         'Share:'
-    facebook:     'Share on Facebook'
-    twitter:      'Share on Twitter'
-    googleplus:   'Share on Google+'
-    linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
-    reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
-    hackernews:   'Share on Hacker News'
+    text:         'Compartilhe:'
+    facebook:     'Compartilhe no Facebook'
+    twitter:      'Compartilhe no Twitter'
+    googleplus:   'Compartilhe no Google+'
+    linkedin:     'Compartilhe no LinkedIn'
+    digg:         'Compartilhe no Digg'
+    tumblr:       'Compartilhe no Tumblr'
+    reddit:       'Compartilhe no Reddit'
+    stumbleupon:  'Compartilhe no StumbleUpon'
+    hackernews:   'Compartilhe no Hacker News'
   post:
-    updated:        'Updated'
-    minute_read:    'minute read'
-    related_posts:  'Related Posts'
-    post_footer:    'Lorem ipsum'
+    updated:        'Atualizado'
+    minute_read:    'minuto(s) de leitura'
+    related_posts:  'Posts relacionado'
+    post_footer:    ''
   index:
-    coming_soon: 'Coming soon...'
-  og_locale: 'en_US'
+    coming_soon: 'Em breve'
+  og_locale: 'pt_BR'
 
 # Build settings
 markdown:     kramdown

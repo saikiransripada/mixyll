@@ -54,13 +54,13 @@ se torna mais elegante e não confusa.
 ## Os 23 tipos de design patterns da GoF
 
 - **Padrões criacionais(Creational)**  
-    * Abstract Factory, Builder, Factory Method, Prototype, Singleton
+    * Abstract Factory, Builder, Factory Method, Prototype, Singleton.
 
 - **Padrões estruturais(Structural)**  
-    * Adapter, Bridge, Composite, Decorator, Façade, Flyweight, Proxy
+    * Adapter, Bridge, Composite, Decorator, Façade, Flyweight, Proxy.
 
 - **Padrões comportamentais(Behavioral)**  
     * Chain of Responsibility, Command, Interpreter, Iterator, Mediator,
-        Memento, Observer, State, Strategy, Template Method, Visitor
+        Memento, Observer, State, Strategy, Template Method, Visitor.
 
 Escreverei uma série de artigos abordando cada tipo de design pattern.

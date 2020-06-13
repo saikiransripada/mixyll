@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Django country filter
-date:       2014-06-08 11:21:29
+date:       2020-06-12 11:21:29
 summary:    Middleware para liberação de requisições de países específicos via Django.
 categories: django python geoip
 ---

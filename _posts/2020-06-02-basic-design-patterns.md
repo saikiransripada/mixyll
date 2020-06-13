@@ -2,7 +2,7 @@
 layout:     post
 title:      O que são Design patterns?
 date:       2014-06-08 11:21:29
-summary:    O que são design patterns? E seus tipos.
+summary:    O que são design patterns e seus tipos?
 categories: design-patterns
 ---
 

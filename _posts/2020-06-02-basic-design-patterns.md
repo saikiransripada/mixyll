@@ -51,7 +51,7 @@ Os padrões também ajudam no entendimento de código e na discussão técnica s
  Como são de baixo acoplamento, a organização e manutenção do software
 se torna mais elegante e não confusa.
 
-## Os 23 tipos de design patterns da GoF
+## Os tipos de design patterns da GoF
 
 - **Padrões criacionais(Creational)**  
     * Abstract Factory, Builder, Factory Method, Prototype, Singleton.

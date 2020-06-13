@@ -39,7 +39,7 @@ GoF classifica os padrões basicamente em 3 famílias:
 - **Padrões comportamentais** se preocupa com a interação e a responsabilidade de
     cada objeto.
 
-Mais abaixo falaremos dos tipos dentro desses 3 grupos.
+Mais abaixo estará a lista dos tipos dentro desses grupos.
 
 ## Os benefícios da utilização dos design patterns
 
@@ -53,33 +53,14 @@ se torna mais elegante e não confusa.
 
 ## Os 23 tipos de design patterns do GoF
 
-- **Padrão de criação(Creational)**  
-    * Abstract Factory
-    * Builder
-    * Factory Method
-    * Prototype
-    * Singleton
+- **Padrões criacionais(Creational)**  
+    * Abstract Factory, Builder, Factory Method, Prototype, Singleton
 
-- **Padrão de estrutural(Structural)**  
-    * Adapter
-    * Bridge
-    * Composite
-    * Decorator
-    * Façade
-    * Flyweight
-    * Proxy
+- **Padrões estruturais(Structural)**  
+    * Adapter, Bridge, Composite, Decorator, Façade, Flyweight, Proxy
 
-- **Padrão de comportamental(Behavioral)**  
-    * Chain of Responsibility
-    * Command
-    * Interpreter
-    * Iterator
-    * Mediator
-    * Memento
-    * Observer
-    * State
-    * Strategy
-    * Template Method
-    * Visitor
+- **Padrões comportamentais(Behavioral)**  
+    * Chain of Responsibility, Command, Interpreter, Iterator, Mediator,
+        Memento, Observer, State, Strategy, Template Method, Visitor
 
-Escreverei uma série de artigos para cada tipo de design pattern.
+Escreverei uma série de artigos abordando cada tipo de design pattern.

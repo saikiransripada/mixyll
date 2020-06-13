@@ -18,18 +18,18 @@ Embora muitas vezes essas soluções resolvam o problema, elas trazem muitos out
 problemas com performance, segurança, problemas de semântica que atrapalham na manutenção
 do software,  tornando árduo o processo.
 
-Sabendo que existem problemas recorrentes, foi criado design patterns ou
-padrões de projeto para resolve-los da melhor forma possível.
+Sabendo que existem problemas recorrentes, foram criados os design patterns ou
+padrões de projeto para resolvê-los da melhor forma possível.
 
 Design patterns é um conceito, não é um código pronto ou um framework, embora
-existam ambos para ajudar na implementação do mesmo. E o conceito utilizado em design patterns também foi levado para planejamento
+existam ambos para ajudar na implementação do mesmo. Esse conceito é utilizado também em planejamento
 ágil, infraestrutura de redes, microsserviços... 
 
 Neste texto vamos tentar falar um pouco mais sobre os padrões GoF(Gang of Four ou A gangue dos quatro),
 que faz referência aos quatros profissionais Erich Gamma, Richard Helm, Ralph Johnson, e John
 Vlissides, que escreveram o livro "Design Patterns".
 
-GoF classifica os padrões basicamente em 3 familias:
+GoF classifica os padrões basicamente em 3 famílias:
 - **Padrões de criação** está relacionado as criações de classes e objetos fornecendo
     flexibilidade e reutilização de código de forma mais eficiente.  
 
@@ -41,7 +41,7 @@ GoF classifica os padrões basicamente em 3 familias:
 
 Mais abaixo falaremos dos tipos dentro desses 3 grupos.
 
-## Os beneficios da utilização dos design patterns
+## Os benefícios da utilização dos design patterns
 
 Devido os padrões terem sido testados e validados para as
 soluções dos problemas nas quais eles propõem resolver, faz com que a velocidade do
@@ -82,4 +82,4 @@ se torna mais elegante e não confusa.
     * Template Method
     * Visitor
 
-Estarei escrevendo uma série de artigos para cada tipo de design pattern.
+Escreverei uma série de artigos para cada tipo de design pattern.

@@ -3,7 +3,7 @@ layout:     post
 title:      O que são Design patterns?
 date:       2014-06-08 11:21:29
 summary:    O que são design patterns? E seus tipos.
-categories: design-patterns cpp c
+categories: design-patterns
 ---
 
 Quando vamos desenvolver o código de um software é comum encontrarmos problemas

@@ -15,23 +15,3 @@ A página do projeto é [https://github.com/0p4ul0/django-country-filter](https:
 Já estou mapeando algumas melhorias como cache e disponiblização de mais providers.
 Se houver sugestões de melhoria do projeto e da documentação, por favor me envie. :)
 
-Testando mermaid
-
-<div class="mermaid">
-gitGraph:
-options
-{
-    "nodeSpacing": 150,
-    "nodeRadius": 10
-}
-end
-commit
-branch newbranch
-checkout newbranch
-commit
-commit
-checkout master
-commit
-commit
-merge newbranch
-</div>

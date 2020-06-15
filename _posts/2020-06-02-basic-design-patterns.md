@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      O que são Design patterns?
+title:      O que são design patterns?
 date:       2020-06-02 11:21:29
 summary:    O que são design patterns e seus tipos?
 categories: design-patterns
@@ -14,9 +14,9 @@ Com isso pode ocorrer de padronizarmos boas ou más soluções, e não foram
 poucas as vezes que vi más soluções serem replicadas de um projeto para outro, e
 engenheiros desinteressados em questionar se a solução é a melhor.
 
-Embora muitas vezes essas soluções resolvam o problema, elas trazem muitos outros
-problemas com performance, segurança, problemas de semântica que atrapalham na manutenção
-do software,  tornando árduo o processo.
+Embora muitas vezes essas soluções resolvam o problema, elas trazem muitos outros em performance, segurança, 
+ semântica ruim que atrapalha a manutenção do projeto, tornando árduo o processo, e mesmo solucionando o 
+ problema original, esses problemas fruto do bad design implicam em grande perda pra empresa.
 
 Sabendo que existem problemas recorrentes, foram criados os design patterns ou
 padrões de projeto para resolvê-los da melhor forma possível.
@@ -39,7 +39,7 @@ GoF classifica os padrões basicamente em 3 famílias:
 - **Padrões comportamentais** se preocupa com a interação e a responsabilidade de
     cada objeto.
 
-Mais abaixo falaremos dos tipos dentro desses 3 grupos.
+Mais abaixo estará a lista dos tipos dentro desses grupos.
 
 ## Os benefícios da utilização dos design patterns
 
@@ -51,35 +51,16 @@ Os padrões também ajudam no entendimento de código e na discussão técnica s
  Como são de baixo acoplamento, a organização e manutenção do software
 se torna mais elegante e não confusa.
 
-## Os 23 tipos de design patterns do GoF
+## Os tipos de design patterns da GoF
 
-- **Padrão de criação(Creational)**  
-    * Abstract Factory
-    * Builder
-    * Factory Method
-    * Prototype
-    * Singleton
+- **Padrões criacionais(Creational)**  
+    * Abstract Factory, Builder, Factory Method, Prototype, Singleton.
 
-- **Padrão de estrutural(Structural)**  
-    * Adapter
-    * Bridge
-    * Composite
-    * Decorator
-    * Façade
-    * Flyweight
-    * Proxy
+- **Padrões estruturais(Structural)**  
+    * Adapter, Bridge, Composite, Decorator, Façade, Flyweight, Proxy.
 
-- **Padrão de comportamental(Behavioral)**  
-    * Chain of Responsibility
-    * Command
-    * Interpreter
-    * Iterator
-    * Mediator
-    * Memento
-    * Observer
-    * State
-    * Strategy
-    * Template Method
-    * Visitor
+- **Padrões comportamentais(Behavioral)**  
+    * Chain of Responsibility, Command, Interpreter, Iterator, Mediator,
+        Memento, Observer, State, Strategy, Template Method, Visitor.
 
-Escreverei uma série de artigos para cada tipo de design pattern.
+Escreverei uma série de artigos abordando cada tipo de design pattern.

@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      Design patterns: Factory (fábrica)
-summary:    Explorando o design pattern factory (fábrica).
-categories: design-patterns factory
+layout:     post  
+title:      Design patterns: Factory (fábrica)  
+summary:    Explorando o design pattern factory (fábrica).  
+categories: design-patterns factory  
 ---
 
 As fábricas estão dentro do grupo de padrões criacionais, ou seja,

@@ -11,8 +11,8 @@ são mecanismos que lidam com a criação de objetos. Basicamente existem alguns
 tipos de fábricas: `creation method`, `static creation`, `simple
 factory`, `factory method` e `abstract method`.
 
-Essas classes fabricam objetos para uma familia de produtos, sem a necessidade de 
-acessar as classes concretas diretamente, isso deixa o código mais flexível e mais fácil de extende, isso deixa o código mais flexível e mais fácil de estender. Quando o sistema deve ser independente de como os produtos são construidos
+Essas classes fabricam objetos para uma família de produtos, sem a necessidade de 
+acessar as classes concretas diretamente, isso deixa o código mais flexível e mais fácil de estender.
 
 Tentarei ser o mais objetivo possível nas definições e também nos exemplos que serão apresentados.
 

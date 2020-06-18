@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      O que são design patterns?
-date:       2020-06-02 11:21:29
 summary:    O que são design patterns e seus tipos?
 categories: design-patterns
 ---

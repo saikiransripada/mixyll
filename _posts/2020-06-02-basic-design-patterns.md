@@ -41,7 +41,7 @@ GoF classifica os padrões basicamente em 3 famílias:
 
 Mais abaixo estará a lista dos tipos dentro desses grupos.
 
-## Os benefícios da utilização dos design patterns
+## Os benefícios da utilização dos padrões
 
 Devido os padrões terem sido testados e validados para as
 soluções dos problemas nas quais eles propõem resolver, faz com que a velocidade do
@@ -51,7 +51,7 @@ Os padrões também ajudam no entendimento de código e na discussão técnica s
  Como são de baixo acoplamento, a organização e manutenção do software
 se torna mais elegante e não confusa.
 
-## Os tipos de design patterns da GoF
+## Os tipos de padrões de projetos
 
 - **Padrões criacionais(Creational)**  
     * Abstract Factory, Builder, Factory Method, Prototype, Singleton.

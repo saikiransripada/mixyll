@@ -31,9 +31,7 @@ Os exemplos que irei demonstrar estão escritos em Python(>3.7 e não estou preo
 
 ### Método de criação (creation method)
 
-O método de criação é como o próprio nome diz, é um método que retorna que produz um objeto com determinadas características. Existem muitas
-formas de implementar esse padrão, no exemplo a seguir, o método `build_object`
-é um método que produz um objeto da própria classe.
+O método de criação é como o próprio nome diz, é um método que retorna um objeto com determinadas características. Existem muitas formas de implementar esse padrão, no exemplo a seguir, o método `build_object`é um método que produz um objeto da própria classe.
 
 ```python
 class CreationMethodFactory:

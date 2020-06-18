@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      Design patterns: Factory (fábrica)
-date:       2020-06-15 20:30:29
+date:       2020-06-15 08:30:29
 summary:    Explorando o design pattern factory (fábrica).
-categories: design patterns factory
+categories: design-patterns factory
 ---
 
 As fábricas estão dentro do grupo de padrões criacionais, ou seja,

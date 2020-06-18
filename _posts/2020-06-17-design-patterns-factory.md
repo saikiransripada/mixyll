@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Design patterns: Factory (fábrica)
-date:       2020-06-15 08:30:29
+date:       2020-06-15
 summary:    Explorando o design pattern factory (fábrica).
 categories: design-patterns factory
 ---

@@ -1,8 +1,9 @@
 ---
-layout:     post  
-title:      Design patterns: Factory (fábrica)  
-summary:    Explorando o design pattern factory (fábrica).  
-categories: design-patterns factory  
+layout:     post
+title:      Padrão de projeto factory (fábrica)
+date:       2020-06-12 11:21:29
+summary:    Explorando o design pattern factory (fábrica).
+categories: django python geoip
 ---
 
 As fábricas estão dentro do grupo de padrões criacionais, ou seja,

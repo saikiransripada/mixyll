@@ -3,7 +3,7 @@ layout:     post
 title:      Padrão de projeto factory (fábrica)
 date:       2020-06-12 11:21:29
 summary:    Explorando o design pattern factory (fábrica).
-categories: django python geoip
+categories: design-patterns factory python
 ---
 
 As fábricas estão dentro do grupo de padrões criacionais, ou seja,
@@ -19,7 +19,7 @@ Tentarei ser o mais objetivo possível nas definições e também nos exemplos q
 Normalmente algumas pessoas ficam confusas com a diferença de fábrica e herança. Fábrica é um
 padrão de projeto e herança é uma característica de orientação a objetos, em alguns casos herança é utilizada para criação de fábricas.
 
-Os exemplos que irei demonstrar estão escritos em Python(>3.7), por ser mais descritivo, acaba sendo autoexplicativo.
+Os exemplos que irei demonstrar estão escritos em Python(>3.7 e não estou preocupado em utilizar PEP8 :P), por ser mais descritivo, acaba sendo autoexplicativo.
 
 ### Quando utilizar fábricas? Quando um sistema ...
 

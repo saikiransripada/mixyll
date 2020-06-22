@@ -41,8 +41,8 @@ public interface Vehicle {
 }
 ```
 
-Após criarmos a interface vamos implementa-la nas classes `Car.java` e `Motorcycle.java` que serão
-as representações de carros e motos, e nelas estarão implementado métodos que retornam uma `String` com seus nomes.
+Após criarmos a interface vamos implementá-la nas classes `Car.java` e `Motorcycle.java` que serão
+as representações de carros e motos, e nelas estarão métodos que retornam uma `String` com seus nomes.
 
 
 ```java
@@ -65,9 +65,9 @@ public class Motorcycle implements Vehicle {
 
 Já temos a interface e as classes que serão fabricadas, agora iremos implementar a classe que irá
 fabricar carros e motos, nela iremos implementar um método estático chamado `create` que irá
-receber uma `String` que pode ser `car` ou `motorcycle` e a partir dessas `String` a classe fábrica
-irá decidir qual classe instanciar e retornar um `Vehicle`, se de receber um nome que pode não pode
-fabricar, irá levantar uma exceção dizendo que `Vehicle not implemented` ou seja de veículo não
+receber uma `String` que pode ser `car` ou `motorcycle` e a partir da `String` a classe fábrica
+irá decidir qual classe instanciar e retornar um `Vehicle`, se receber um nome que não pode
+fabricar, irá levantar uma exceção dizendo que `Vehicle not implemented`, ou seja, de veículo não
 implementado.
 
 ```java
@@ -82,7 +82,7 @@ public class VehicleFactory {
     }
 }
 ```
-Com a classe fábrica pronta, vamos escrever a aplicação que irá utiliza-la. Nela colocaremos todas
+Com a classe fábrica pronta, vamos escrever a aplicação que irá utilizá-la. Nela colocaremos todas
 as ações possíveis da classe fábrica, construir uma moto, um carro ou levantar uma exceção em caso
 de inêxistencia da implementação.
 
@@ -109,7 +109,7 @@ public class ExampleSimpleFactory {
 
 ## Compilando e executando a aplicação
 
-Temos todos os arquivos necessários para ver a aplicação funcionando e ver o comportamento da
+Temos todos os arquivos necessários para ver o comportamento da
 classe fábrica. Abaixo está os comandos para compilar e executar nosso código:
 
 
@@ -126,5 +126,5 @@ Motorcycle
 Vehicle not implemented.
 ```
 Existem diversas formas de construir uma classe fábrica em Java, essa foi uma forma bastante
-comum em projetos que atuei ao longo do tempo, mas como exercicio pegue os outros tipos de fábricas
+comum em projetos que atuei ao longo do tempo, mas como exercício pegue os outros tipos de fábricas
 que estão no artigo ["Padrão de projeto factory (fábrica)"](https://0p4ul0.com.br/design-patterns-factory) e implemente em Java.

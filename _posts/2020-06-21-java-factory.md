@@ -21,7 +21,7 @@ suficiente).
 
 ## Estrutura da implementação
 
-Vamos criar uma estrutura básica de arquivos e explicando cada passo. Vamos seguir um modelo em que
+Vamos criar uma estrutura básica de arquivos explicando cada passo. Vamos seguir um modelo em que
 seja mais fácil copiar e colar o código para fazer os testes.
 
 Vamos criar o diretório onde ficará os códigos, pode ser qualquer nome.
@@ -42,7 +42,7 @@ public interface Vehicle {
 ```
 
 Após criarmos a interface vamos implementa-la nas classes `Car.java` e `Motorcycle.java` que serão
-as representações de carros e motos, e nelas estarão retornando uma `String` com os seus nomes.
+as representações de carros e motos, e nelas estarão implementado métodos que retornam uma `String` com seus nomes.
 
 
 ```java

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Simple factory em Java
+title:      Fábrica simples em Java
 date:       2020-06-12 11:21:29
 summary:    Implementação do padrão simple factory em Java.
 categories: design-patterns factory java

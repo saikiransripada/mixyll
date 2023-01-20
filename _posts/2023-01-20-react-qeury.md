@@ -237,7 +237,7 @@ const { mutate, mutateAsync , reset ,  ... } = useMutation( mutationFn , {...opt
 useQeury와 마찬가기로 config (option) 에서 커스텀을 진행할수 있다.
 
 ```ts
- = useMutation( mutationFn , {onMutate , onError, onSuccess, retry});
+ = useMutation( mutationFn , {onMutate , onError, onSuccess, retry , ...});
 ```
 
 - **onMutate**: 본격적인 Mutation 동작 전에 먼저 동작 하는 함수, Optimistic Update 적용할때 유용

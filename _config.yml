@@ -41,6 +41,7 @@ share_tumblr: true
 share_reddit: true
 share_stumbleupon: true
 share_hackernews: true
+futrue: true
 
 text:
   pagination:
